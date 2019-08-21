@@ -17,7 +17,7 @@ open Terminal and type
 7. npm install ejs
 
 step:3
-open Terminal and type
+open Terminal and Run
 
 $node app.js
 
