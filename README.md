@@ -8,13 +8,13 @@ step:2
 downlode modules
 open Terminal and type
 
-npm install express
-npm install mysql
-npm install connect-flash
-npm install express-session
-npm install body-parser
-npm install path
-npm install ejs
+1. npm install express
+2. npm install mysql
+3. npm install connect-flash
+4. npm install express-session
+5. npm install body-parser
+6. npm install path
+7. npm install ejs
 
 
 
