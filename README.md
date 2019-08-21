@@ -16,6 +16,11 @@ open Terminal and type
 6. npm install path
 7. npm install ejs
 
+step:3
+open Terminal and type
+
+$node app.js
+
 
 
 
